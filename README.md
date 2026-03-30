@@ -26,11 +26,11 @@ I’m **Amit maurya **, a **Software Developer** passionate about building scala
 ---<!-- ====================== PREMIUM README COVER ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=260&section=header&text=Amar%20Kumar&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=260&section=header&text=Amit%20maurya&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
 </p>
 
 <p align="center">
-  <img src=WhatsApp.jpeg
+  <img src=amit.jpg.jpeg
        width="180"
        style="border-radius:50%; border:4px solid #7928ca;" />
 </p>
