@@ -36,7 +36,7 @@ I’m **Amit maurya **, a **Software Developer** passionate about building scala
 </p>
 
 <h2 align="center">
-  🚀 Frontend Developer | UI/UX Enthusiast
+  🚀 Frontend Developer |DSA 
 </h2>
 
 ---
@@ -58,10 +58,10 @@ KNOWING ABOUT
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanC77&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amarkumarexecuter&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarkumarexecuter&theme=tokyonight" width="100%"/>
-  <img src="https://streak-stats.demolab.com/?user=AmanC77&theme=tokyonight&hide_border=false" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ait9935&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAmit9935&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit9935&theme=tokyonight" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=Amit99&theme=tokyonight&hide_border=false" width="100%"/>
 </div>
 
 ---
