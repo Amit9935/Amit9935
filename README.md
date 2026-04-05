@@ -26,11 +26,12 @@ I’m **Amit maurya **, a **Software Developer** passionate about building scala
 ---<!-- ====================== PREMIUM README COVER ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#0D5966&height=260&section=header&text=Amit%20Maurya&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=&height=260&section=header&text=Amit%20Maurya&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
 </p>
 
 <p align="center">
-  <img src=amit.jpg.jpeg
+  <img src=![WhatsApp Image 2026-04-05 at 5 24 48 PM](https://github.com/user-attachments/assets/f6fc4f20-b977-46a2-93ad-71e600bdc1b0)
+
        width="180"
        style="border-radius:50%; border:4px solid #7928ca;" />
 </p>
@@ -86,12 +87,13 @@ KNOWING ABOUT
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/amit-maurya-37897b382?utm_source=share_via&utm_content=profile&utm_medium=member_android"> click here </a>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-    <a href="https://www.instagram.com/itz_amitz_99?igsh=MXJibzQyNHJpaWZveg=="> Link Text </a>
+    <a href="https://www.instagram.com/itz_amitz_99?igsh=MXJibzQyNHJpaWZveg=="> Click here </a>
   </a>
 </p>
 
