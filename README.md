@@ -26,7 +26,7 @@ I’m **Amit maurya **, a **Software Developer** passionate about building scala
 ---<!-- ====================== PREMIUM README COVER ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=260&section=header&text=Amit%20maurya&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#0D5966&height=260&section=header&text=Amit%20Maurya&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
 </p>
 
 <p align="center">
@@ -91,6 +91,7 @@ KNOWING ABOUT
   <!-- Instagram -->
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://www.instagram.com/itz_amitz_99?igsh=MXJibzQyNHJpaWZveg=="> Link Text </a>
   </a>
 </p>
 
