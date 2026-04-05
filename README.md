@@ -30,7 +30,7 @@ I’m **Amit maurya **, a **Software Developer** passionate about building scala
 </p>
 
 <p align="center">
-  <img src=!amit.jpg.jpeg ></img>
+  <img src=amit.jpg.jpeg ></img>
 
        width="180"
        style="border-radius:50%; border:4px solid #7928ca;" />
