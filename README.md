@@ -85,14 +85,10 @@ KNOWING ABOUT
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="https://www.linkedin.com/in/amit-maurya-37897b382?utm_source=share_via&utm_content=profile&utm_medium=member_android"> click here </a>
+    <a href="https://www.linkedin.com/in/amit-maurya-37897b382?utm_source=share_via&utm_content=profile&utm_medium=member_android"> </a>
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-    <a href="https://www.instagram.com/itz_amitz_99?igsh=MXJibzQyNHJpaWZveg=="> Click here </a>
-  </a>
+
 </p>
 
 ---
