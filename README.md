@@ -84,8 +84,8 @@ KNOWING ABOUT
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="https://www.linkedin.com/in/amit-maurya-37897b382?utm_source=share_via&utm_content=profile&utm_medium=member_android"> </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    <a href="https://www.linkedin.com/in/amit-maurya-37897b382?utm_source=share_via&utm_content=profile&utm_medium=member_android"> </a></img>
   </a>
 
 
